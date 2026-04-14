@@ -132,9 +132,9 @@ docker run -it mini-compiler
 
 ## Team Split
 
-- Member 1: `src/lexer.l` and token design
-- Member 2: `src/parser.y`, grammar, and AST
-- Member 3: `src/codegen.c`, `src/main.c`, integration, evaluator, demo
+- Aman Aggarwal: `src/lexer.l` and token design
+- Siddhartha Ravva: `src/parser.y`, grammar, and AST
+- Mukkara Rithvik Reddy : `src/codegen.c`, `src/main.c`, integration, evaluator, demo
 
 ## Presentation Lines
 
